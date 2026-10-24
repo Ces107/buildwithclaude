@@ -4100,7 +4100,7 @@
       "description": "Stop/PostToolUse hook: after a code edit, Claude Code cannot end its turn until a recognised test command has run and passed after the last change. Piped, masked or failing runs do not count; after two reminders it lets the turn end with a warning. A repo's .proof-of-done.json can only add checks; waivers live in the user's ~/.claude/proof-of-done.json. Standard-library Python, no network.",
       "version": "1.1.0",
       "author": {
-        "name": "C\u00e9sar Pereiro",
+        "name": "César Pereiro",
         "url": "https://github.com/Ces107"
       },
       "homepage": "https://github.com/Ces107/agent-forge/tree/main/plugins/done-gate",
